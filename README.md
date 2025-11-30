@@ -120,6 +120,7 @@ Open http://localhost:3000
 
 📁 Project Structure
 
+```bash
 src/
 ├── app/              # Next.js App Router
 ├── components/       # Reusable UI components
@@ -132,25 +133,27 @@ src/
 │   ├── dashboard/   # Dashboard UI
 │   └── meetings/    # Meeting management
 └── trpc/            # tRPC API routes
+```
 
 🔑 Key Features Explained
-AI Agent Architecture
-Agents are created with custom instructions
-Automatically join meetings when sessions start
-Use OpenAI's real-time API for voice interactions
-Persist across multiple meetings
-Webhook-Driven Processing
-Event-driven architecture for async operations
-Automatic transcription and recording processing
-Real-time status updates without polling
-Type-Safe Full Stack
-End-to-end TypeScript with tRPC
-Zero runtime type errors
-Automatic API contract validation
-📝 License
+
+**AI Agent Architecture**
+- Agents are created with custom instructions
+- Automatically join meetings when sessions start
+- Use OpenAI's real-time API for voice interactions
+- Persist across multiple meetings
+**Webhook-Driven Processing**
+- Event-driven architecture for async operations
+- Automatic transcription and recording processing
+- Real-time status updates without polling
+**Type-Safe Full Stack**
+- End-to-end TypeScript with tRPC
+- Zero runtime type errors
+- Automatic API contract validation
+**📝 License**
 MIT
 
-👤 Author
+**👤 Author**
 Harshavardhan Patil
 
 GitHub: @harshavardhan194
