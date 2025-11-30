@@ -118,7 +118,7 @@ npm run dev
 
 Open http://localhost:3000
 
-📁 Project Structure
+##📁 Project Structure
 
 ```bash
 src/
@@ -135,7 +135,7 @@ src/
 └── trpc/            # tRPC API routes
 ```
 
-🔑 Key Features Explained
+##🔑 Key Features Explained
 
 **AI Agent Architecture**
 - Agents are created with custom instructions
@@ -157,10 +157,13 @@ src/
 MIT
 
 **👤 Author**
+
 Harshavardhan Patil
 
 GitHub: @harshavardhan194
+
 🙏 Acknowledgments
+
 Next.js
 OpenAI
 Stream
