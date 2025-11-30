@@ -142,14 +142,17 @@ src/
 - Automatically join meetings when sessions start
 - Use OpenAI's real-time API for voice interactions
 - Persist across multiple meetings
+
 **Webhook-Driven Processing**
 - Event-driven architecture for async operations
 - Automatic transcription and recording processing
 - Real-time status updates without polling
+
 **Type-Safe Full Stack**
 - End-to-end TypeScript with tRPC
 - Zero runtime type errors
 - Automatic API contract validation
+
 **📝 License**
 MIT
 
