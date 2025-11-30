@@ -153,9 +153,6 @@ src/
 - Zero runtime type errors
 - Automatic API contract validation
 
-**📝 License**
-MIT
-
 **👤 Author**
 
 Harshavardhan Patil
