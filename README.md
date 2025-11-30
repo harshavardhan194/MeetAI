@@ -98,13 +98,13 @@ cp .env.example .env
 ```
 Fill in your credentials:
 
-DATABASE_URL - PostgreSQL connection string
-OPENAI_API_KEY - OpenAI API key
-NEXT_PUBLIC_STREAM_VIDEO_API_KEY - Stream API key
-STREAM_VIDEO_SECRET_KEY - Stream secret
-GITHUB_CLIENT_ID & GITHUB_CLIENT_SECRET
-GOOGLE_CLIENT_ID & GOOGLE_CLIENT_SECRET
-BETTER_AUTH_SECRET - Random secret string
+- DATABASE_URL - PostgreSQL connection string
+- OPENAI_API_KEY - OpenAI API key
+- NEXT_PUBLIC_STREAM_VIDEO_API_KEY - Stream API key
+- STREAM_VIDEO_SECRET_KEY - Stream secret
+- GITHUB_CLIENT_ID & GITHUB_CLIENT_SECRET
+- GOOGLE_CLIENT_ID & GOOGLE_CLIENT_SECRET
+- BETTER_AUTH_SECRET - Random secret string
 
 4. Push database schema
 ```bash
